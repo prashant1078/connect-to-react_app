@@ -1,4 +1,4 @@
-# Code for CoderDost Youtube video on Connecting REACT with NODE and MONGO
+# Connect ro react app
 
 
 Two folder of front-end and back-end are provided separately.
